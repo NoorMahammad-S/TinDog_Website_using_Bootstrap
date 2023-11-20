@@ -1,4 +1,4 @@
-# TinDog_Website_using_Bootstrap
+# TinDog Website using Bootstrap
 This is is a fun and playful website project called TinDog, that helps dogs find new friends in their local area. a fictional application for connecting dogs. 
 The website is built using HTML, CSS, Bootstrap, and Font Awesome for icons.
 
