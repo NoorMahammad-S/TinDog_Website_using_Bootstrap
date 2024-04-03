@@ -61,6 +61,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request to the original repository.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). You can freely use, modify, and distribute the code.
